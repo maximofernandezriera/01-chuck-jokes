@@ -1,4 +1,4 @@
-# Un acercamiento a CAKEPHP 5 con la aplicación de chuck-jokes
+# Un acercamiento a CAKEPHP 5 con la aplicación de Chuck Jokes
 
 Usando como guía estos dos documentos:
 
